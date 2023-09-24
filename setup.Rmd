@@ -124,7 +124,7 @@ During the Rtools installation you may see a window asking you to "Select Additi
 
 ### macOS
 
-You need to install the Xcode command line tools, which requires that you [register as an Apple developer](https://developer.apple.com/programs/register/) (don't worry, it's free).
+You need to install the Xcode command line tools, which requires that you [register as an Apple developer](https://developer.apple.com/programs/enroll/) (just log-in and register with your Apple ID; there is a paid certificate, but you don't need to sign up for that).
 
 Then, in the shell, do:
 
